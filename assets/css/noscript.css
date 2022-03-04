@@ -6,8 +6,8 @@
 
 /* BG */
 
-	body.is-preload #bg:before {
-		background-color: transparent;
+background-image:url images/lobby.png
+	
 	}
 
 /* Header */
